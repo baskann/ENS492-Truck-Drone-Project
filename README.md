@@ -19,7 +19,7 @@ This project was developed as part of the ENS491 Graduation Project at Sabancı 
 ---
 
 
-You can access gurobi solution of the project fram "ENS492 Truck-Drone Project/gurobi_solution.py". 
+You can access gurobi solution of the project from "ENS492 Truck-Drone Project/gurobi_solution.py". 
 
 Here are all the libraries you need to install for this code:
 Copypip install gurobipy
